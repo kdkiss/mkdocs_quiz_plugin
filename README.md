@@ -1,6 +1,5 @@
 ### `README.md`
 
-```markdown
 # MkDocs Quiz Plugin
 
 The MkDocs Quiz Plugin is a simple and effective way to turn your Markdown documentation into interactive quizzes. With this plugin, you can create multiple-choice questions directly within your Markdown files, and users can interact with these quizzes right on your site.
