@@ -10,7 +10,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-build/
+**/build/
+**/build/lib/mkdocs_quiz_plugin/
+**/dist/
+**/mkdocs_quiz_plugin.egg-info/
 develop-eggs/
 dist/
 downloads/
