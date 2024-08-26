@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: mkdocs-quiz-plugin
+Version: 0.1.0
+Summary: A MkDocs plugin to turn markdown pages into interactive quizzes
+Home-page: https://github.com/yourusername/mkdocs-quiz-plugin
+Author: Your Name
+Author-email: youremail@example.com
+License: MIT
+Keywords: mkdocs plugin quiz markdown
+Requires-Python: >=3.6
+Requires-Dist: mkdocs>=1.0.4
+
+This MkDocs plugin allows you to create interactive quizzes directly within your markdown pages.
