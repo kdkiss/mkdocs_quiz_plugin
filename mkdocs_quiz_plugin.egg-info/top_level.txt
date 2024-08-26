@@ -1,1 +1,0 @@
-mkdocs_quiz_plugin
